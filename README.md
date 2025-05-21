@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johnx360
-- 👀 I’m interested in cloud computing and development
+- 👀 I’m interested in cloud computing, security and development
 - 🌱 I’m currently learning Terraform and Kubernetes to manage and create resources on AWS and Azure
 - 📫 You can reach me via LinkedIn via https://www.linkedin.com/in/john-vaughan-08b465137 
 
